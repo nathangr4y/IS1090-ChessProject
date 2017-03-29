@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8c7fa70b21f847046958d6847af1ef52
+timeCreated: 1490754483
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenu: {instanceID: 0}
+  - serverMenu: {instanceID: 0}
+  - connectMenu: {instanceID: 0}
+  - serverPrefab: {fileID: 1587368156308248, guid: 3d55483a30b18404c8326589300d18f3,
+      type: 2}
+  - clientPrefab: {fileID: 1147941015163582, guid: c8fc3d690736c0349a0694c6057bc0d0,
+      type: 2}
+  - nameInput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

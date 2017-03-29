@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 328ff9b61d3b5984f8fcb3c388430014
+timeCreated: 1489631118
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boardSquareWhite: {fileID: 1470928426642352, guid: 85911a2a6af2f4649866316f0ba31988,
+      type: 2}
+  - boardSquareBlack: {fileID: 1846982545646382, guid: f9c0d0a58342d0f41bd72f53d7a2d7d1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
